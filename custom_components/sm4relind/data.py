@@ -3,7 +3,7 @@ LINK="https://sequentmicrosystems.com/products/four-relays-four-inputs-for-raspb
 
 import lib4relind
 API = lib4relind
-DOMAIN = "SM4relind"
+DOMAIN = "sm4relind"
 NAME_PREFIX = "sm4ri"
 SM_MAP = {
     "binary_sensor":  {
