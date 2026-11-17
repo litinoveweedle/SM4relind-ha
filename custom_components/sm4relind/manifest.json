@@ -2,19 +2,13 @@
   "domain": "sm4relind",
   "name": "Sequent Microsystems Four Relays Four Inputs Integration",
   "after_dependencies": [],
-  "codeowners": [
-    "@3lv",
-    "litinoveweedle"
-  ],
+  "codeowners": ["@3lv", "@litinoveweedle"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/SequentMicrosystems/SM4relind-ha",
   "integration_type": "device",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/SequentMicrosystems/SM4relind-ha",
-  "requirements": [
-    "SM4relind>=1.0.5",
-    "SMcommonHA>=0.0.3"
-  ],
+  "requirements": ["SM4relind>=1.0.5", "SMcommonHA>=0.0.3"],
   "version": "1.0.0"
 }
